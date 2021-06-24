@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on an incredible project called [Mentoria IaC](https://gomex.me/mentoriaiac/)
 - 🌱 I’m always learning something new in [DevOps](https://roadmap.sh/devops)
 - 📫 How to reach me:
-<p><a href="https://www.twitter.com/mdmansur"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/marcelo-dellacroce-mansur-71585231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<p><a href="https://www.twitter.com/mdmansur"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/marcelo-dellacroce-mansur-71585231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  
 <!--
 **marcelomansur/marcelomansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcelomansur&count_private=true&show_icons=true&include_all_commits=true)
 -->
