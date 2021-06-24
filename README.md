@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on an incredible project called [Mentoria IaC](https://gomex.me/mentoriaiac/)
-- 🌱 I’m always learning something new in [DevOps](https://roadmap.sh/devops)
+- 🌱 I’m always learning something new in [DevOps](https://roadmap.sh/devops) universe
 - 📫 How to reach me:
 <p><a href="https://www.twitter.com/mdmansur"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/marcelo-dellacroce-mansur-71585231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   
